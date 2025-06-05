@@ -1,0 +1,31 @@
+table{
+    border: 2px solid;
+    width: 100%;
+}
+
+.cat{
+    border: none;
+    text-align: center;
+}
+
+.categoria{
+    background-color: yellow;
+}
+
+.preço{
+    background-color: lightgreen;
+}
+
+th{
+    width: 100%;
+    text-align: center;
+    border: 1px solid;
+}
+
+td{
+    border: 1px solid;
+}
+
+.cor{
+    background-color: lightgray;
+}
