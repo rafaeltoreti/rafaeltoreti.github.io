@@ -1,0 +1,38 @@
+table{
+    border: 2px solid;
+    width: 100%;
+}
+
+.cat{
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img{
+    background-color: black;
+    width: 100%;
+    height: auto;
+}
+
+.categoria{
+    background-color: yellow;
+    border: 1px solid;
+}
+
+.preço{
+    background-color: lightgreen;
+    border: 1px solid;
+}
+
+th{
+    width: 100%;
+    text-align: center;
+}
+
+td{
+    border: 1px solid;
+}
+
+.cor{
+    background-color: lightgray;
+}
